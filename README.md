@@ -18,8 +18,10 @@ Let's create a good list of modules :muscle:
 
 ## Learning
 
-_here we can include talks, slides..._
-
+### Slides
+- [Reaching 88 MPH with systemic](https://matteodipaolo.github.io/Reaching88MphWithSystemic/#/)
+### Articles
+- [Systemic: the silver bullet to develop perfect microservices in Node.JS](https://dev.to/guidesmiths/systemic-the-silver-bullet-to-develop-perfect-microservices-in-node-js-d84)
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
