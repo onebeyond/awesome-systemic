@@ -15,6 +15,11 @@ Let's create a good list of modules :muscle:
 
 - [systemic-express](https://www.npmjs.com/package/systemic-express) _A systemic express component_
 - [systemic-mysql](https://www.npmjs.com/package/systemic-mysql) _A systemic Mysql component_
+- [systemic-azure-bus](https://www.npmjs.com/package/systemic-azure-bus) _Systemic adapter for azure bus_
+- [systemic-aws-s3](https://github.com/guidesmiths/systemic-aws-s3) _Systemic adapter for aws s3_
+- [systemic-aws-sqs](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for aws sqs_
+- [systemic-redis](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for redis_
+- [systemic-pg](https://github.com/guidesmiths/systemic-pg) _Systemic adapter fot pg_
 
 ## Learning
 
