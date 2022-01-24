@@ -19,7 +19,7 @@ Let's create a good list of modules :muscle:
 - [systemic-aws-s3](https://github.com/guidesmiths/systemic-aws-s3) _Systemic adapter for aws s3_
 - [systemic-aws-sqs](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for aws sqs_
 - [systemic-redis](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for redis_
-- [systemic-pg](https://github.com/guidesmiths/systemic-pg) _Systemic adapter fot pg_
+- [systemic-pg](https://github.com/guidesmiths/systemic-pg) _Systemic adapter for pg_
 
 ## Learning
 
