@@ -20,6 +20,9 @@ Let's create a good list of modules :muscle:
 - [systemic-aws-sqs](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for aws sqs_
 - [systemic-redis](https://github.com/guidesmiths/systemic-aws-sqs) _Systemic adapter for redis_
 - [systemic-pg](https://github.com/guidesmiths/systemic-pg) _Systemic adapter for pg_
+- [generator-systemic](https://www.npmjs.com/package/generator-systemic) _A systemic generator to quickly create an application skeleton_
+- [systemic-slack](https://github.com/guidesmiths/systemic-slack) _Simple systemic component to send messages or files in Slack to any room_
+- [systemic-rabbitmq](https://www.npmjs.com/package/systemic-rabbitmq) _A systemic rabbitmq component_
 
 ## Learning
 
