@@ -27,15 +27,15 @@ Let's create a good list of modules :muscle:
 - [systemic-express](https://www.npmjs.com/package/systemic-express) _A systemic express component_
 - [systemic-mysql](https://www.npmjs.com/package/systemic-mysql) _A systemic Mysql component_
 - [systemic-aws-sqs](https://github.com/guidesmiths/systemic-aws-sqs) _A systemic sqs component for aws_
+- [systemic-aws-s3](https://github.com/guidesmiths/systemic-aws-s3) _A Systemic component for the AWS S3 SDK v3_
+- [systemic-redis](https://github.com/guidesmiths/systemic-redis) _Systemic adapter for redis_
+- [systemic-pg](https://github.com/guidesmiths/systemic-pg) _Systemic adapter for pg_
 - [systemic-azure-bus](npmjs.com/package/systemic-azure-bus) _A systemic azure bus component_
 - [systemic-azure-metrics](https://github.com/onebeyond/systemic-azure-metrics) _A systemic plugin to deal with azure metrics_
 - [systemic-slack](https://github.com/guidesmiths/systemic-slack) _Simple systemic component to send messages or files in Slack to any room_
 - [systemic-rabbitmq](https://www.npmjs.com/package/systemic-rabbitmq) _A systemic rabbitmq component_
-- [systemic-redis](https://github.com/onebeyond/systemic-redis) _A systemic redis component_
 - [systemic-mongodb](https://github.com/onebeyond/systemic-mongodb) _A systemic mongodb component_
-- [systemic-pg](https://github.com/onebeyond/systemic-pg) _A systemic pg component_
 - [systemic-aws-secrets-manager](https://github.com/onebeyond/systemic-aws-secrets-manager) _A Systemic component for the AWS SecretsManager SDK v3_
-- [systemic-aws-s3](https://github.com/onebeyond/systemic-aws-s3) _A Systemic component for the AWS S3 SDK v3_
 - [systemic-knex](https://github.com/onebeyond/systemic-knex) _A systemic Knex component_
 - [systemic-mongodb-memory-server](https://github.com/onebeyond/systemic-mongodb-memory-server) _A systemic mongodb-memory-server component for testing without docker or dedicated mongodb servers._
 - [systemic-github-api](https://github.com/onebeyond/systemic-github-api) _A systemic wrapper for github-api_
