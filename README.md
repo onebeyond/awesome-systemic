@@ -43,6 +43,10 @@ Let's create a good list of modules :muscle:
 
 ## Learning
 
+### Examples
+- [Systemic basic examples](https://github.com/MatteoDiPaolo/systemic-examples)
+- [Systemic showcase example](https://github.com/MatteoDiPaolo/service-systemic-showcase)
+
 ### Slides
 - [Reaching 88 MPH with systemic](https://matteodipaolo.github.io/Reaching88MphWithSystemic/#/)
 ### Articles
