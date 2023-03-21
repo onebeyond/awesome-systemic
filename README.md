@@ -47,8 +47,11 @@ Let's create a good list of modules :muscle:
 - [Systemic basic examples](https://github.com/MatteoDiPaolo/systemic-examples)
 - [Systemic showcase example](https://github.com/MatteoDiPaolo/service-systemic-showcase)
 
-### Slides
-- [Reaching 88 MPH with systemic](https://matteodipaolo.github.io/Reaching88MphWithSystemic/#/)
+### Training
+
+-  Reaching 88 MPH with systemic
+    - [Slides](https://matteodipaolo.github.io/Reaching88MphWithSystemic/#/)
+    - [Video](https://youtu.be/IarRM2F2drw)
 ### Articles
 - [Systemic: the silver bullet to develop perfect microservices in Node.JS](https://dev.to/guidesmiths/systemic-the-silver-bullet-to-develop-perfect-microservices-in-node-js-d84)
 ## Contribute
